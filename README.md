@@ -9,8 +9,8 @@
   <a href="https://github.com/mohki7/mohki7/">
     <img src="https://komarev.com/ghpvc/?username=mohki7" alt="mohki7" />
   </a>
-  <a href="http://twitter.com/a7data">
-    <img height="20" src="https://img.shields.io/twitter/follow/a7data?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/a7_data">
+    <img height="20" src="https://img.shields.io/twitter/follow/a7_data?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/mohki7">
     <img height="20" src="https://img.shields.io/github/followers/mohki7?label=follow&logo=github&style=flat" />
