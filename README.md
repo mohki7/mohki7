@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=mohki7" alt="mohki7" />
   </a>
   <a href="http://twitter.com/a7_data">
-    <img height="20" src="https://img.shields.io/twitter/followers/A7_data" />
+    <img height="20" src="https://img.shields.io/twitter/follow/A7_data" />
   </a>
   <a href="https://github.com/mohki7">
     <img height="20" src="https://img.shields.io/github/followers/mohki7?label=follow&logo=github&style=flat" />
