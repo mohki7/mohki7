@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🏫 Keio University
+- 💻 I want to be a Data Scientist
+- 📝 I'm learning Deep Learning and Causal Inference.
+- 📫 How to reach me: via my X(Twitter) : https://twitter.com/A7_data
 <!--
 **mohki7/mohki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
