@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏫 Keio University 🇯🇵
-- 💻 I want to be a Data Scientist
+- 💻 I want to be a data scientist
 - 📝 I'm learning Deep Learning and Causal Inference.
 - 📫 How to reach me: via my X(Twitter) : https://twitter.com/A7_data
 
