@@ -5,7 +5,7 @@
 - 📝 I'm learning Deep Learning and Causal Inference.
 - 📫 How to reach me: via my X(Twitter) : https://twitter.com/A7_data
 
-![image](https://github.com/mohki7/mohki7/assets/101637109/b33c8e24-35b4-4cd6-b964-4d569b5b58b8)
+![image](https://github.com/mohki7/mohki7/assets/101637109/d7ebf9b4-b27a-415a-81fd-5aefa213d351)
 
 <p align="left">
   <a href="https://github.com/mohki7/mohki7/">
